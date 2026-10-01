@@ -4,7 +4,7 @@ An end-to-end machine learning web app built with Python, Streamlit, and scikit-
 
 ## Overview
 
-This project loads a trained logistic regression model and a scaler to predict whether a patient is likely to have heart disease. The app accepts medical parameters such as age, sex, cholesterol, blood pressure, and other clinical features through a simple UI.
+This project loads a trained logistic regression model and a scaler to predict whether a patient is likely to have heart disease. The app accepts medical parameters such as age, sex, cholesterol, blood pressure, and lifestyle indicators to provide a risk estimate.
 
 ## Repository Structure
 
@@ -63,6 +63,12 @@ pip install streamlit pandas scikit-learn joblib
 ```bash
 streamlit run app.py
 ```
+
+## App Screenshot
+
+<p align="center">
+  <img src="assests/Screenshot%202026-10-01%20143227.png" alt="Heart Disease Prediction App Screenshot" width="800" />
+</p>
 
 Then open the local URL shown in the terminal, usually:
 
