@@ -70,7 +70,7 @@ streamlit run app.py
 
 Use the app directly in the browser: [Heart Disease Prediction App](https://sahilbisht12-heart-disease-prediction-app-urdufy.streamlit.app/)
 
-## App Screenshot
+## App Video
 
 <p align="center">
   <img src="assests/Heart_disease_prediction.gif" alt="Heart Disease Prediction App Screenshot" width="800" />
