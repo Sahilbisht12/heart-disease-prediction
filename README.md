@@ -73,7 +73,7 @@ Use the app directly in the browser: [Heart Disease Prediction App](https://sahi
 ## App Screenshot
 
 <p align="center">
-  <img src="assests/Screenshot%202026-10-01%20143227.png" alt="Heart Disease Prediction App Screenshot" width="800" />
+  <img src="assests/Heart_disease_prediction.gif" alt="Heart Disease Prediction App Screenshot" width="800" />
 </p>
 
 Then open the local URL shown in the terminal, usually:
