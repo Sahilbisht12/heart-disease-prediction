@@ -2,9 +2,11 @@
 
 An end-to-end machine learning web app built with Python, Streamlit, and scikit-learn to predict heart disease risk based on patient health indicators.
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sahilbisht12-heart-disease-prediction-app-urdufy.streamlit.app/)
+
 ## Overview
 
-This project loads a trained logistic regression model and a scaler to predict whether a patient is likely to have heart disease. The app accepts medical parameters such as age, sex, cholesterol, blood pressure, and lifestyle indicators to provide a risk estimate.
+This project loads a trained logistic regression model and a scaler to predict whether a patient is likely to have heart disease. The app accepts medical parameters such as age, sex, cholesterol, blood pressure, and other health indicators to estimate risk.
 
 ## Repository Structure
 
@@ -63,6 +65,10 @@ pip install streamlit pandas scikit-learn joblib
 ```bash
 streamlit run app.py
 ```
+
+## 🚀 Live Demo
+
+Use the app directly in the browser: [Heart Disease Prediction App](https://sahilbisht12-heart-disease-prediction-app-urdufy.streamlit.app/)
 
 ## App Screenshot
 
